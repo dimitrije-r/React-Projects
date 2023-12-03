@@ -1,4 +1,4 @@
-<b><i>React.js</b></i>
+<h2>React.js</h2>
 
 <hr>
 <b>https://17-calculator.netlify.app/<br><br>
