@@ -1,6 +1,6 @@
 <h2>React.js</h2>
 
-<hr>
+<br>
 <b>https://17-calculator.netlify.app/<br><br>
 https://16-random-me.netlify.app/<br><br>
 https://15-cocktail-database.netlify.app/<br><br>
