@@ -10,6 +10,7 @@ https://6-shopping-cart.netlify.app/<br>
 https://7-cocktail-database.netlify.app/<br>
 https://8-random-me.netlify.app/<br>
 https://9-standard-calculator.netlify.app/<br>
+https://10-software-dev-portfolio.netlify.app/<br>
 <hr>
 <div>
 <h3>1-menu:</h3>
