@@ -1,4 +1,5 @@
-<h2>React.js</h2>
+<div align="center"><h2>React.js</h2><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/></div>
 
 <br>
 <b>https://17-calculator.netlify.app/<br><br>
