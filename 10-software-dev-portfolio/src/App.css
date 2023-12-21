@@ -5,19 +5,19 @@
 
 
 .bg-primary {
-    background: #0F172A;
+    background:hsl(225, 50%, 17%);
 }
 
 .bg-secondary {
-    background: #1E293B;
+    background: hsl(210, 45%, 21%);
 }
 
 .bg-accent {
-    background: #7477FF;
+    background: hsl(239, 100%, 73%);
 }
 
 .text-accent {
-    color: #7477FF;
+    color:hsl(239, 100%, 73%);
 } 
 
 .mobile-nav {
@@ -29,7 +29,7 @@ nav li a {
 }
 
 nav li a:hover {
-    color: #7477FF;
+    color: hsl(239, 100%, 73%);
 }
 
 h1 {

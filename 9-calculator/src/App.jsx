@@ -11,7 +11,7 @@ export const ACTIONS = {
   EVALUATE: "evaluate",
 }
 
-function reducer(state, { type, payload }) {
+const reducer=(state, { type, payload }) => {
   switch (type) {
     case ACTIONS.ADD_DIGIT:
       if (state.overwrite) {
@@ -52,7 +52,7 @@ function reducer(state, { type, payload }) {
   }
 }
 
-function evaluate({ currentOperand, previousOperand, operation }) {
+const evaluate=({ currentOperand, previousOperand, operation })=> {
   const prev = parseFloat(previousOperand)
   const current = parseFloat(currentOperand)
   if (isNaN(prev) || isNaN(current)) return ""
@@ -78,14 +78,14 @@ function evaluate({ currentOperand, previousOperand, operation }) {
 const INTEGER_FORMATTER = new Intl.NumberFormat("en-us", {
   maximumFractionDigits: 0,
 })
-function formatOperand(operand) {
+const formatOperand=(operand)=> {
   if (operand == null) return
   const [integer, decimal] = operand.split(".")
   if (decimal == null) return INTEGER_FORMATTER.format(integer)
   return `${INTEGER_FORMATTER.format(integer)}.${decimal}`
 }
 
-function App() {
+const App=()=> {
   const [{ currentOperand, previousOperand, operation }, dispatch] = useReducer(reducer,{})
 
   return (
