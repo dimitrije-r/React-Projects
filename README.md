@@ -33,16 +33,23 @@ https://9-standard-calculator.netlify.app/<br>
  <ul>
  <li>Live: https://10-software-dev-portfolio.netlify.app/</li>
  <li>
- Packages used:<ul>
-  <li>Tailwindcss</li>
- </ul>
+ Packages used: Tailwindcss
  </li>
  </ul>
  </div>
 
-<div><h3>9-calculator:</h3>
+<div><h3>9-random-me:</h3>
  <ul>
- <li>Live: https://1-restaurant-menu.netlify.app/</li>
+ <li>Live: https://1-standard-calculator.netlify.app/</li>
+ <li>
+ Packages used: react-icons/fa
+ </li>
+ </ul>
+ </div>
+
+ <div><h3>8-calculator:</h3>
+ <ul>
+ <li>Live: https://1-standard-calculator.netlify.app/</li>
  <li>
  Packages used: none
  </li>
