@@ -2,7 +2,7 @@ import { useState } from "react";
 import { userRows } from "../../data";
 import DataTable from "../../components/dataTable/DataTable";
 import Add from "../../components/add/Add";
-import "./Users.scss";
+import "./users.scss";
 
 const columns= [
   { field: "id", headerName: "ID", width: 90 },

@@ -16,15 +16,10 @@ function App() {
     const { large: image } = person.picture
     const { password } = person.login
     const { first, last } = person.name
-    const {
-      dob: { age },
-    } = person
-    const {
-      street: { number, name },
-    } = person.location
+    const {dob: { age }} = person
+    const {street: { number, name }} = person.location
 
-    const newPerson = { image, phone, email, password, age, street: `${number} ${name}`, name: `${first} ${last}`,
-    }
+    const newPerson = { image, phone, email, password, age, street: `${number} ${name}`, name: `${first} ${last}`}
     setPerson(newPerson)
     setLoading(false)
     setTitle('name')
@@ -34,7 +29,7 @@ function App() {
   useEffect(() => {
     getPerson()
   }, [])
-  const handleValue = (e) => {
+  const handleHover = (e) => {
     if (e.target.classList.contains('icon')) {
       const newValue = e.target.dataset.label
       setTitle(newValue)
@@ -50,22 +45,22 @@ function App() {
           <p className='user-title'>My {title} is</p>
           <p className='user-value'>{value}</p>
           <div className='values-list'>
-            <button className='icon' data-label='name' onMouseOver={handleValue}>
+            <button className='icon' data-label='name' onMouseOver={handleHover}>
               <FaUserAlt />
             </button>
-            <button className='icon' data-label='email' onMouseOver={handleValue}>
+            <button className='icon' data-label='email' onMouseOver={handleHover}>
               <FaEnvelope />
             </button>
-            <button className='icon' data-label='age' onMouseOver={handleValue}>
+            <button className='icon' data-label='age' onMouseOver={handleHover}>
               <FaCalendarAlt />
             </button>
-            <button className='icon' data-label='street' onMouseOver={handleValue}>
+            <button className='icon' data-label='street' onMouseOver={handleHover}>
               <FaMapMarkedAlt />
             </button>
-            <button className='icon' data-label='phone' onMouseOver={handleValue}>
+            <button className='icon' data-label='phone' onMouseOver={handleHover}>
               <FaPhone />
             </button>
-            <button className='icon' data-label='password' onMouseOver={handleValue}>
+            <button className='icon' data-label='password' onMouseOver={handleHover}>
               <FaLock />
             </button>
           </div>
