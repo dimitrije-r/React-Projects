@@ -17,10 +17,10 @@ const PromotionBox = ({onClosePopup}) => {
         let style = {}
 
         if (promotionSquare.x === 7) {
-            style.top = '-12.5%'
+            style.top = '1.5%'
         }
         else{
-            style.top = '97.5%'
+            style.top = '82.5%'
         }
 
         if (promotionSquare.y <= 1){
@@ -30,7 +30,7 @@ const PromotionBox = ({onClosePopup}) => {
             style.right = '0%'
         }
         else {
-            style.left = `${12.5*promotionSquare.y - 20}%`
+            style.left = `${10*promotionSquare.y - 20}%`
         }
 
         return style
