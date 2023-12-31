@@ -2,7 +2,7 @@
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/react-query.dark.svg" alt="tanstack/react-query" width="40" height="40"/></div><br>
 
 <br>
-
+<hr>
 <div><h3>12-chess:</h3>
  <ul>
  <li>Live: https://12-chess.netlify.app/</li>
@@ -11,6 +11,7 @@
  </li>
  </ul>
  </div>
+<hr>
 
  <div><h3>11-dashboard:</h3>
  <ul>
@@ -27,6 +28,7 @@
  </li>
  </ul>
  </div>
+<hr>
  
  <div><h3>10-software-dev-portfolio:</h3>
  I am currently working on this website for a friend.
@@ -37,6 +39,7 @@
  </li>
  </ul>
  </div>
+<hr>
 
 <div><h3>9-calculator:</h3>
  <ul>
@@ -46,6 +49,7 @@
  </li>
  </ul>
  </div>
+<hr>
 
  <div><h3>8-random-me:</h3>
  <ul>
@@ -55,6 +59,8 @@
  </li>
  </ul>
  </div>
+<hr>
+
  <div><h3>7-cocktail-database:</h3>
  <ul>
  <li>Live: https://7-cocktail-database.netlify.app/</li>
@@ -63,6 +69,7 @@
  </li>
  </ul>
  </div>
+<hr>
 
  <div><h3>6-shopping-cart:</h3>
  <ul>
@@ -72,6 +79,7 @@
  </li>
  </ul>
  </div>
+<hr>
 
  <div><h3>5-modal-sidebar:</h3>
  <ul>
@@ -81,6 +89,8 @@
  </li>
  </ul>
  </div>
+<hr>
+
  <div><h3>4-list-maker:</h3>
  <ul>
  <li>Live: https://4-list-maker.netlify.app/</li>
@@ -89,6 +99,7 @@
  </li>
  </ul>
  </div>
+<hr>
 
  <div><h3>3-color-generator:</h3>
  <ul>
@@ -98,6 +109,7 @@
  </li>
  </ul>
  </div>
+<hr>
 
  <div><h3>2-lorem-ipsum-generator:</h3>
  <ul>
@@ -107,6 +119,7 @@
  </li>
  </ul>
  </div>
+<hr>
  
  <div><h3>1-menu:</h3>
  <ul>
