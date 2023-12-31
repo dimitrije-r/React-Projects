@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { useGlobalContext } from '../context'
-export default function SearchForm() {
+const SearchForm=() => {
   const { setSearchTerm } = useGlobalContext()
   const searchValue = useRef('')
 
@@ -25,3 +25,4 @@ export default function SearchForm() {
     </section>
   )
 }
+export default SearchForm

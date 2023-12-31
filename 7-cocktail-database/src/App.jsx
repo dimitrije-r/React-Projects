@@ -6,7 +6,7 @@ import SingleCocktail from './pages/SingleCocktail';
 import Error from './pages/Error';
 import Navbar from './components/Navbar';
 
-function App() {
+const App=() => {
   return (
     <Router>
       <Navbar />

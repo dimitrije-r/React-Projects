@@ -2,15 +2,15 @@
 <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/><img src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/react-query.dark.svg" alt="tanstack/react-query" width="40" height="40"/></div><br>
 
 <br>
-https://2-lorem-ipsum-generator.netlify.app/<br>
-https://3-color-generator.netlify.app/<br>
-https://4-list-maker.netlify.app/<br>
-https://5-modal-sidebar.netlify.app/<br>
-https://6-shopping-cart.netlify.app/<br>
-https://7-cocktail-database.netlify.app/<br>
-https://8-random-me.netlify.app/<br>
-https://9-standard-calculator.netlify.app/<br>
-<br>
+
+<div><h3>12-chess:</h3>
+ <ul>
+ <li>Live: https://12-chess.netlify.app/</li>
+ <li>
+ Packages used: none
+ </li>
+ </ul>
+ </div>
 
  <div><h3>11-dashboard:</h3>
  <ul>
@@ -29,7 +29,7 @@ https://9-standard-calculator.netlify.app/<br>
  </div>
  
  <div><h3>10-software-dev-portfolio:</h3>
- This is a webiste I am currently working on for a friend.
+ I am currently working on this website for a friend.
  <ul>
  <li>Live: https://10-software-dev-portfolio.netlify.app/</li>
  <li>
@@ -38,18 +38,70 @@ https://9-standard-calculator.netlify.app/<br>
  </ul>
  </div>
 
-<div><h3>9-random-me:</h3>
+<div><h3>9-calculator:</h3>
  <ul>
- <li>Live: https://1-standard-calculator.netlify.app/</li>
+ <li>Live: https://9-standard-calculator.netlify.app/</li>
  <li>
  Packages used: react-icons/fa
  </li>
  </ul>
  </div>
 
- <div><h3>8-calculator:</h3>
+ <div><h3>8-random-me:</h3>
  <ul>
- <li>Live: https://1-standard-calculator.netlify.app/</li>
+ <li>Live: https://8-random-me.netlify.app/</li>
+ <li>
+ Packages used: react-icons/fa
+ </li>
+ </ul>
+ </div>
+ <div><h3>7-cocktail-database:</h3>
+ <ul>
+ <li>Live: https://7-cocktail-database.netlify.app/</li>
+ <li>
+ Packages used: react-router-dom
+ </li>
+ </ul>
+ </div>
+
+ <div><h3>6-shopping-cart:</h3>
+ <ul>
+ <li>Live: https://6-shopping-cart.netlify.app/</li>
+ <li>
+ Packages used: none
+ </li>
+ </ul>
+ </div>
+
+ <div><h3>5-modal-sidebar:</h3>
+ <ul>
+ <li>Live: https://5-modal-sidebar.netlify.app/</li>
+ <li>
+ Packages used: react-icons/fa
+ </li>
+ </ul>
+ </div>
+ <div><h3>4-list-maker:</h3>
+ <ul>
+ <li>Live: https://4-list-maker.netlify.app/</li>
+ <li>
+ Packages used: react-icons/fa
+ </li>
+ </ul>
+ </div>
+
+ <div><h3>3-color-generator:</h3>
+ <ul>
+ <li>Live: https://3-color-generator.netlify.app/</li>
+ <li>
+ Packages used: none
+ </li>
+ </ul>
+ </div>
+
+ <div><h3>2-lorem-ipsum-generator:</h3>
+ <ul>
+ <li>Live: https://2-lorem-ipsum-generator.netlify.app/</li>
  <li>
  Packages used: none
  </li>
@@ -65,7 +117,3 @@ https://9-standard-calculator.netlify.app/<br>
  </ul>
  </div>
  </div>
-
-
-
-

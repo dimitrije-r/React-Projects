@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import SingleColor from './SingleColor'
 import Values from 'values.js'
 
-function App() {
+const App=() =>{
   const [color, setColor] = useState('')
   const [error, setError] = useState(false)
   const [list, setList] = useState(new Values('#c59d5f').all(10))
@@ -28,11 +28,11 @@ function App() {
         </form>
       </section>
       <section className='colors'>
-        {list.map((color, index) => {
-          return (
+        {list.map((color, index) => 
+          
             <SingleColor key={index} {...color} index={index} hexColor={color.hex}/>
-          )
-        })}
+          
+        )}
       </section>
     </>
   )

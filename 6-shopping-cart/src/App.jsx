@@ -3,7 +3,7 @@ import { useGlobalContext } from './context'
 import Navbar from './Navbar'
 import CartContainer from './CartContainer'
 
-function App() {
+const App=()=> {
   const { loading } = useGlobalContext()
   if (loading) {
     return (

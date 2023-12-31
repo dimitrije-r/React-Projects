@@ -3,7 +3,7 @@ import Cocktail from './Cocktail'
 import Loading from './Loading'
 import { useGlobalContext } from '../context'
 
-export default function CocktailList() {
+const CocktailList=() => {
   const { cocktails, loading } = useGlobalContext()
   if (loading) {
     return <Loading/>
@@ -26,3 +26,4 @@ export default function CocktailList() {
     </section>
   )
 }
+export default CocktailList
