@@ -7,7 +7,7 @@
  <ul>
  <li>Live: https://12-chess.netlify.app/</li>
  <li>
- Packages used: none
+ Packages/libraries used: none
  </li>
  </ul>
  </div>
@@ -17,7 +17,7 @@
  <ul>
  <li>Live: https://11-dashboard.netlify.app/</li>
  <li>
- Packages used:
+ Packages/libraries used:
   <ol>
    <li>SASS</li>
    <li>react-router-dom</li>
@@ -35,7 +35,7 @@
  <ul>
  <li>Live: https://10-software-dev-portfolio.netlify.app/</li>
  <li>
- Packages used: Tailwindcss
+ Packages/libraries used: Tailwindcss
  </li>
  </ul>
  </div>
@@ -45,7 +45,7 @@
  <ul>
  <li>Live: https://9-standard-calculator.netlify.app/</li>
  <li>
- Packages used: react-icons/fa
+ Packages/libraries used: react-icons/fa
  </li>
  </ul>
  </div>
@@ -55,7 +55,7 @@
  <ul>
  <li>Live: https://8-random-me.netlify.app/</li>
  <li>
- Packages used: react-icons/fa
+ Packages/libraries used: react-icons/fa
  </li>
  </ul>
  </div>
@@ -65,7 +65,7 @@
  <ul>
  <li>Live: https://7-cocktail-database.netlify.app/</li>
  <li>
- Packages used: react-router-dom
+ Packages/libraries used: react-router-dom
  </li>
  </ul>
  </div>
@@ -75,7 +75,7 @@
  <ul>
  <li>Live: https://6-shopping-cart.netlify.app/</li>
  <li>
- Packages used: none
+ Packages/libraries used: none
  </li>
  </ul>
  </div>
@@ -85,7 +85,7 @@
  <ul>
  <li>Live: https://5-modal-sidebar.netlify.app/</li>
  <li>
- Packages used: react-icons/fa
+ Packages/libraries used: react-icons/fa
  </li>
  </ul>
  </div>
@@ -95,7 +95,7 @@
  <ul>
  <li>Live: https://4-list-maker.netlify.app/</li>
  <li>
- Packages used: react-icons/fa
+ Packages/libraries used: react-icons/fa
  </li>
  </ul>
  </div>
@@ -105,7 +105,7 @@
  <ul>
  <li>Live: https://3-color-generator.netlify.app/</li>
  <li>
- Packages used: none
+ Packages/libraries used: none
  </li>
  </ul>
  </div>
@@ -115,7 +115,7 @@
  <ul>
  <li>Live: https://2-lorem-ipsum-generator.netlify.app/</li>
  <li>
- Packages used: none
+ Packages/libraries used: none
  </li>
  </ul>
  </div>
@@ -125,7 +125,7 @@
  <ul>
  <li>Live: https://1-restaurant-menu.netlify.app/</li>
  <li>
- Packages used: none
+ Packages/libraries used: none
  </li>
  </ul>
  </div>
